@@ -68,7 +68,7 @@ Motivated and detail-oriented aspiring  SOC Analyst seeking to apply foundationa
     <img src="https://img.shields.io/badge/-ISC%C2%B2_Cybersecurity_Certificate-003478?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - - <b>Active Directory Home Lab (PowerShell)</b>- [Deploying and Managing AD with PowerShell](https://github.com/joshmadakor1/AD-Lab)
 
