@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/musah-issah-925ba2313"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Aspiring SOC Analyst passionate about defending systems and unraveling security threats. I’m building my skills through hands-on labs, industry certifications, and PowerShell scripting for real-world scenarios.
+Jr SOC Analyst passionate about defending systems and unraveling security threats. I’m building my skills through hands-on labs, industry certifications, and PowerShell scripting for real-world scenarios.
 
 ## Objective
 
