@@ -1,5 +1,7 @@
 <h1>Hi, I'm Musah! <br/> 
-<a href=[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musah-issah-925ba2313) /></a>
+<a href="https://www.linkedin.com/in/musah-issah-925ba2313" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 
 Cybersecurity Analyst passionate about defending systems and unraveling security threats. I’m building my skills through hands-on labs, industry certifications, and PowerShell scripting for real-world scenarios.
