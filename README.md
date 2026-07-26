@@ -3,7 +3,7 @@
 </a>
 
 <h1>Hi, I'm Musah! <br/> 
-Cybersecurity Analyst passionate about defending systems and unraveling security threats. I’m building my skills through hands-on labs, industry certifications, and PowerShell scripting for real-world scenarios.
+Cybersecurity Governance, Risk, and Compliance (GRC) professional with hands on experience supporting governance, risk management, compliance, and cybersecurity initiatives across federal and regulated environments. I am passionate about helping organizations strengthen their security posture through effective governance, risk management, compliance, and security controls.
 
 ## Objective
 
