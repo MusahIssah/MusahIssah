@@ -7,7 +7,7 @@ Cybersecurity Governance, Risk, and Compliance (GRC) professional with hands on 
 
 ## Objective
 
-Motivated and detail-oriented aspiring  SOC Analyst seeking to apply foundational cybersecurity knowledge and hands-on experience in threat detection, incident response, and SIEM tools. Eager to contribute to a security-focused team while continuing to grow through real-world investigations, scripting, and industry certifications.
+Motivated and detail-oriented aspiring  GRC Analyst seeking to apply foundational cybersecurity knowledge and hands-on experience in NIST RMF, Incident Response, TPRM, SOC 2, ISO 27001, STIG, eMASS, and SIEM tools. Eager to contribute to a security-focused team while continuing to grow through real-world investigations, scripting, and industry certifications.
 
 ## Skils
                                         
