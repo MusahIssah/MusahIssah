@@ -25,7 +25,7 @@ Motivated and detail-oriented aspiring  GRC Analyst seeking to apply foundationa
  
  Active Directory
  
- 
+Linux Administration 
 
 ## Tools
 
