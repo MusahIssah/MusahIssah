@@ -43,7 +43,6 @@ See the running lab and the evidence behind the project: remote access, permissi
 - Azure Cloud Fundamentals
 - Google Cybersecurity Certificate
 - ISC2 Cybersecurity Certificate
-- Active Directory (Windows Server) training
 
 ## Connect
 
