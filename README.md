@@ -2,30 +2,30 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 
-<h1>Hi, I'm Musah! <br/> 
-Cybersecurity Governance, Risk, and Compliance (GRC) professional with hands on experience supporting governance, risk management, compliance, and cybersecurity initiatives across federal and regulated environments. I am passionate about helping organizations strengthen their security posture through effective governance, risk management, compliance, and security controls.
+# Hi, I’m Musah Issah
+
+I focus on cybersecurity governance, risk, and compliance, supported by practical work in system administration and security operations.
+
+This portfolio documents my hands-on projects in Linux administration, vulnerability assessment, Windows security configuration, and threat detection. Each project includes the approach, evidence, and lessons learned.
+
+My goal is to connect security requirements with technical implementation—and demonstrate how I verify the results.
 
 ## Objective
 
-Motivated and detail-oriented aspiring  GRC Analyst seeking to apply foundational cybersecurity knowledge and hands-on experience in NIST RMF, Incident Response, TPRM, SOC 2, ISO 27001, STIG, eMASS, and SIEM tools. Eager to contribute to a security-focused team while continuing to grow through real-world investigations, scripting, and industry certifications.
+| Project | What the summary should communicate |
+|---|---|
+| Linux Security Operations Lab | SSH, permissions, patching, and a finding validated as remediated through rescanning. |
+[Watch my Linux lab walkthrough on YouTube](https://youtu.be/oW2EyVbyPPo)
+| Windows Server STIG project | Configuration assessment, documented findings, and verified changes. |
+| Nessus credentialed scanning project | Authenticated assessment, finding analysis, and supporting evidence. |
 
 ## Skils
                                         
- SIEM Implementation and Log Analysis          
- 
- Network Traffic Monitoring and Attack Detection 
- 
- Security Automation with Shuffle SOAR         
- 
- Incident Response Planning and Execution                      
- 
- Scripting and Automation for Threat Mitigation
- 
- System Hardening Practice 
- 
- Active Directory
- 
-Linux Administration 
+ | Area | Demonstrated skills | Evidence |
+|---|---|---|
+| Linux administration | SSH, permissions, systemd, DNF | Linux lab |
+| Vulnerability management | Credentialed scanning, triage, remediation validation | Linux and Nessus labs |
+| Security configuration | STIG assessment and remediation | Windows Server project |
 
 ## Tools
 
