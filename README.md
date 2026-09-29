@@ -12,6 +12,7 @@ This portfolio documents my assessment approach, technical findings, remediation
 
 | Project | What I demonstrated |
 | --- | --- |
+| [Irongate Defense Solutions RMF Lab](https://github.com/MusahIssah/Irongate-RMF-Security-Assessment) | Developed a scoped System Security Plan, POA&M, and control register for a fictional organization; documented 31 selected controls, evidence gaps, and remediation milestones. Personal lab simulation, not a completed authorization package. |
 | [Windows Server 2022 STIG Compliance](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) | Assessed a lab domain controller against DISA STIG requirements using SCC and STIG Viewer, documented findings, and verified remediation. |
 | [Linux Security Operations Lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) | Configured SSH access, tested file permissions, applied security updates, and verified a targeted firewall remediation with a credentialed Nessus rescan. |
 | [Nessus Credentialed Vulnerability Scan Lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) | Performed a credentialed assessment of a Windows Server lab target and documented the methodology, findings, and CVE analysis. |
@@ -27,6 +28,7 @@ See the running lab and the evidence behind the project: remote access, permissi
 
 | Area | Practical skills | Project evidence |
 | --- | --- | --- |
+| GRC and RMF documentation | System Security Plan development, control assessment documentation, POA&M tracking, and evidence management | [Irongate RMF lab](https://github.com/MusahIssah/Irongate-RMF-Security-Assessment) |
 | Linux administration | SSH, file ownership and permissions, systemd, DNF, and service validation | [Linux lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) |
 | Vulnerability management | Credentialed scanning, finding triage, targeted remediation, and rescanning | [Linux lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) · [Windows scanning lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) |
 | Security configuration | STIG assessment, remediation documentation, and evidence collection | [Windows Server STIG project](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) |
