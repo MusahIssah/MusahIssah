@@ -1,10 +1,12 @@
 # Hi, I’m Musah Issah
 
-**Cybersecurity Governance, Risk & Compliance | System Administration | Security Operations**
+**Cybersecurity Governance, Risk & Compliance | RMF Analyst Focus | Security Control Assessment**
 
-I focus on connecting security requirements with practical implementation. This portfolio documents my hands-on lab work in Linux administration, vulnerability assessment, Windows security configuration, and threat detection.
+I focus on cybersecurity governance, risk, and compliance, with an emphasis on the NIST Risk Management Framework (RMF), security controls, assessment evidence, and remediation tracking. I am building practical experience relevant to RMF Analyst and ISSO roles.
 
-Explore the projects below for my approach, commands, screenshots, and validation results. These are personal lab projects, with scope and limitations documented alongside the evidence.
+Through hands-on labs in Windows security configuration, Linux administration, and vulnerability assessment, I practice implementing security requirements and verifying the results.
+
+This portfolio documents my assessment approach, technical findings, remediation steps, and supporting evidence. The projects are personal labs, with their scope and limitations documented alongside the results.
 
 ## Featured projects
 
