@@ -1,76 +1,50 @@
-<a href="https://www.linkedin.com/in/musah-issah-925ba2313" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-
 # Hi, I’m Musah Issah
 
-I focus on cybersecurity governance, risk, and compliance, supported by practical work in system administration and security operations.
+**Cybersecurity Governance, Risk & Compliance | System Administration | Security Operations**
 
-This portfolio documents my hands-on projects in Linux administration, vulnerability assessment, Windows security configuration, and threat detection. Each project includes the approach, evidence, and lessons learned.
+I focus on connecting security requirements with practical implementation. This portfolio documents my hands-on lab work in Linux administration, vulnerability assessment, Windows security configuration, and threat detection.
 
-My goal is to connect security requirements with technical implementation—and demonstrate how I verify the results.
+Explore the projects below for my approach, commands, screenshots, and validation results. These are personal lab projects, with scope and limitations documented alongside the evidence.
 
-## Objective
+## Featured projects
 
-| Project | What the summary should communicate |
-|---|---|
-| Linux Security Operations Lab | SSH, permissions, patching, and a finding validated as remediated through rescanning. |
-[Watch my Linux lab walkthrough on YouTube](https://youtu.be/oW2EyVbyPPo)
-| Windows Server STIG project | Configuration assessment, documented findings, and verified changes. |
-| Nessus credentialed scanning project | Authenticated assessment, finding analysis, and supporting evidence. |
+| Project | What I demonstrated |
+| --- | --- |
+| [Windows Server 2022 STIG Compliance](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) | Assessed a lab domain controller against DISA STIG requirements using SCC and STIG Viewer, documented findings, and verified remediation. |
+| [Linux Security Operations Lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) | Configured SSH access, tested file permissions, applied security updates, and verified a targeted firewall remediation with a credentialed Nessus rescan. |
+| [Nessus Credentialed Vulnerability Scan Lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) | Performed a credentialed assessment of a Windows Server lab target and documented the methodology, findings, and CVE analysis. |
+| [Okta Threat Detection Lab](https://github.com/MusahIssah/okta-threat-detection-lab) | Practiced identity threat detection through credential stuffing, impossible travel, and MFA fatigue simulations in a lab environment. |
 
-## Skils
-                                        
- | Area | Demonstrated skills | Evidence |
-|---|---|---|
-| Linux administration | SSH, permissions, systemd, DNF | Linux lab |
-| Vulnerability management | Credentialed scanning, triage, remediation validation | Linux and Nessus labs |
-| Security configuration | STIG assessment and remediation | Windows Server project |
+## Watch the Linux lab walkthrough
 
-## Tools
+See the running lab and the evidence behind the project: remote access, permissions, patching, and vulnerability remediation.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-   
+[Watch the walkthrough on YouTube](https://youtu.be/oW2EyVbyPPo) · [Read the project documentation](https://github.com/MusahIssah/Linux-Security-Operations-Lab)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   
+## Skills demonstrated
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+| Area | Practical skills | Project evidence |
+| --- | --- | --- |
+| Linux administration | SSH, file ownership and permissions, systemd, DNF, and service validation | [Linux lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) |
+| Vulnerability management | Credentialed scanning, finding triage, targeted remediation, and rescanning | [Linux lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) · [Windows scanning lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) |
+| Security configuration | STIG assessment, remediation documentation, and evidence collection | [Windows Server STIG project](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) |
+| Identity security | Lab simulations and investigation of identity-related threats | [Okta lab](https://github.com/MusahIssah/okta-threat-detection-lab) |
 
-## CLOUD
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-    <div><img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-</div>
-    
-## Certifications
+## Tools and platforms
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<div>
-<img src="https://img.shields.io/badge/-Azure_Cloud_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-Active_Directory_(Windows_Server)-0066CC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-ISC%C2%B2_Cybersecurity_Certificate-003478?&style=for-the-badge&logo=ISC2&logoColor=white" />
-</div>
+- **Administration:** RHEL, Windows Server, Active Directory, Hyper-V, Bash, PowerShell, OpenSSH, DNF, systemd, and firewalld.
+- **Assessment:** Nessus Essentials, SCC, and STIG Viewer.
+- **Monitoring and security tools:** Wireshark, Suricata, Microsoft Defender for Endpoint, Microsoft Sentinel, Splunk, and Okta.
+- **Cloud platforms:** Microsoft Azure and AWS.
 
+## Certifications and training
 
+- CompTIA Security+
+- Azure Cloud Fundamentals
+- Google Cybersecurity Certificate
+- ISC2 Cybersecurity Certificate
+- Active Directory (Windows Server) training
 
+## Connect
 
-
-
+[LinkedIn](https://www.linkedin.com/in/musah-issah-925ba2313)
