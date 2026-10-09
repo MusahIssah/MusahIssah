@@ -1,6 +1,6 @@
 # Hi, I’m Musah Issah
 
-**Cybersecurity Governance, Risk & Compliance | RMF Analyst Focus | Security Control Assessment**
+**Cybersecurity Governance, Risk & Compliance | RMF Analyst Focus | ISSO**
 
 I focus on cybersecurity governance, risk, and compliance, with an emphasis on the NIST Risk Management Framework (RMF), security controls, assessment evidence, and remediation tracking. I am building practical experience relevant to RMF Analyst and ISSO roles.
 
