@@ -12,6 +12,7 @@ This portfolio documents my assessment approach, technical findings, remediation
 
 | Project | What I demonstrated |
 | --- | --- |
+| [RMF Control Assessment Lab](https://github.com/MusahIssah/RMF-Control-Assessment-Lab) | Assessed 11 controls and enhancements on a Windows Server 2022 domain controller, documented findings in an Excel workbook, and retested fixes against lab evidence. |
 | [Irongate Defense Solutions RMF Lab](https://github.com/MusahIssah/Irongate-RMF-Security-Assessment) | Developed a scoped System Security Plan, POA&M, and control register for a fictional organization; documented 31 selected controls, evidence gaps, and remediation milestones. Personal lab simulation, not a completed authorization package. |
 | [Windows Server 2022 STIG Compliance](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) | Assessed a lab domain controller against DISA STIG requirements using SCC and STIG Viewer, documented findings, and verified remediation. |
 | [Linux Security Operations Lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) | Configured SSH access, tested file permissions, applied security updates, and verified a targeted firewall remediation with a credentialed Nessus rescan. |
