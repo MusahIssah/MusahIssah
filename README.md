@@ -17,7 +17,7 @@ This portfolio documents my assessment approach, technical findings, remediation
 | [Windows Server 2022 STIG Compliance](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) | Assessed a lab domain controller against DISA STIG requirements using SCC and STIG Viewer, documented findings, and verified remediation. |
 | [Linux Security Operations Lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) | Configured SSH access, tested file permissions, applied security updates, and verified a targeted firewall remediation with a credentialed Nessus rescan. |
 | [Nessus Credentialed Vulnerability Scan Lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) | Performed a credentialed assessment of a Windows Server lab target and documented the methodology, findings, and CVE analysis. |
-| [Okta Threat Detection Lab](https://github.com/MusahIssah/okta-threat-detection-lab) | Practiced identity threat detection through credential stuffing, impossible travel, and MFA fatigue simulations in a lab environment. |
+| [Active Directory Tiered Password Hardening](https://github.com/MusahIssah/active-directory-tiered-password-hardening) | Configured a 20-character Fine-Grained Password Policy for a nonprivileged lab account, verified the resultant policy and password-reset behavior, and preserved the 14-character domain baseline. Documented selected CIS settings and NIST IA-5 and AC-2 alignment with screenshots and lab limitations. |
 
 ## Watch the Linux lab walkthrough
 
