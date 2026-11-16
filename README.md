@@ -18,6 +18,7 @@ This portfolio documents my assessment approach, technical findings, remediation
 | [Linux Security Operations Lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) | Configured SSH access, tested file permissions, applied security updates, and verified a targeted firewall remediation with a credentialed Nessus rescan. |
 | [Nessus Credentialed Vulnerability Scan Lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) | Performed a credentialed assessment of a Windows Server lab target and documented the methodology, findings, and CVE analysis. |
 | [Active Directory Tiered Password Hardening](https://github.com/MusahIssah/active-directory-tiered-password-hardening) | Configured a 20-character Fine-Grained Password Policy for a nonprivileged lab account, verified the resultant policy and password-reset behavior, and preserved the 14-character domain baseline. Documented selected CIS settings and NIST IA-5 and AC-2 alignment with screenshots and lab limitations. |
+| [Microsoft Intune Endpoint Security Hardening, Compliance Validation & Risk Assessment](https://github.com/MusahIssah/microsoft-intune-endpoint-security-hardening) | Validated firewall, Defender, BitLocker, and platform security on an MDM-only Windows 11 lab VM; compared six Compliant controls with local PowerShell evidence and documented unresolved recovery-key visibility and ASR audit review findings. Includes sanitized evidence and a read-only verification script. |
 
 ## Watch the Linux lab walkthrough
 
