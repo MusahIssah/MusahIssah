@@ -19,6 +19,7 @@ This portfolio documents my assessment approach, technical findings, remediation
 | [Nessus Credentialed Vulnerability Scan Lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) | Performed a credentialed assessment of a Windows Server lab target and documented the methodology, findings, and CVE analysis. |
 | [Active Directory Tiered Password Hardening](https://github.com/MusahIssah/active-directory-tiered-password-hardening) | Configured a 20-character Fine-Grained Password Policy for a nonprivileged lab account, verified the resultant policy and password-reset behavior, and preserved the 14-character domain baseline. Documented selected CIS settings and NIST IA-5 and AC-2 alignment with screenshots and lab limitations. |
 | [Microsoft Intune Endpoint Security Hardening, Compliance Validation & Risk Assessment](https://github.com/MusahIssah/microsoft-intune-endpoint-security-hardening) | Validated firewall, Defender, BitLocker, and platform security on an MDM-only Windows 11 lab VM; compared six Compliant controls with local PowerShell evidence and documented unresolved recovery-key visibility and ASR audit review findings. Includes sanitized evidence and a read-only verification script. |
+| [CIS Windows Server 2022 Firewall Hardening](https://github.com/MusahIssah/cis-windows-server-2022-firewall-hardening) | Assessed five selected CIS Level 1 Member Server firewall checks, remediated two Public profile rule-merging findings through a GPO scoped to a pilot server, and verified effective settings and GPO application with PowerShell and gpresult. Includes sanitized before/after evidence; not a full CIS assessment. |
 
 ## Watch the Linux lab walkthrough
 
@@ -35,12 +36,16 @@ See the running lab and the evidence behind the project: remote access, permissi
 | Vulnerability management | Credentialed scanning, finding triage, targeted remediation, and rescanning | [Linux lab](https://github.com/MusahIssah/Linux-Security-Operations-Lab) · [Windows scanning lab](https://github.com/MusahIssah/Nessus-Credentialed-Vulnerability-Scan-Lab) |
 | Security configuration | STIG assessment, remediation documentation, and evidence collection | [Windows Server STIG project](https://github.com/MusahIssah/Windows-Server-2022-DC-STIG-Compliance) |
 | Identity security | Lab simulations and investigation of identity-related threats | [Okta lab](https://github.com/MusahIssah/okta-threat-detection-lab) |
+| Active Directory password security | Fine-Grained Password Policies, global security group targeting, resultant policy verification, and controlled password-reset testing | [AD password hardening](https://github.com/MusahIssah/active-directory-tiered-password-hardening) |
+| Endpoint management and compliance | Intune MDM-only management, deployment-status review, six-control compliance validation, and independent Defender, BitLocker, TPM, and Secure Boot checks | [Intune endpoint security](https://github.com/MusahIssah/microsoft-intune-endpoint-security-hardening) |
+| Firewall hardening and Group Policy | Selected CIS baseline assessment, pilot GPO targeting, Public profile rule-merging remediation, ActiveStore validation, and applied-policy review | [CIS firewall project](https://github.com/MusahIssah/cis-windows-server-2022-firewall-hardening) |
+| Security findings and evidence | Before/after documentation, sanitized evidence publication, recovery-key visibility assessment, ASR audit interpretation, and remediation closure criteria | [Intune findings](https://github.com/MusahIssah/microsoft-intune-endpoint-security-hardening/blob/main/docs/SECURITY_FINDINGS.md) · [Firewall findings](https://github.com/MusahIssah/cis-windows-server-2022-firewall-hardening/blob/main/docs/FINDINGS.md) |
 
 ## Tools and platforms
 
-- **Administration:** RHEL, Windows Server, Active Directory, Hyper-V, Bash, PowerShell, OpenSSH, DNF, systemd, and firewalld.
+- **Administration:** RHEL, Windows Server, Active Directory, Group Policy, Microsoft Intune, Hyper-V, Bash, PowerShell, OpenSSH, DNF, systemd, and firewalld.
 - **Assessment:** Nessus Essentials, SCC, and STIG Viewer.
-- **Monitoring and security tools:** Wireshark, Suricata, Microsoft Defender for Endpoint, Microsoft Sentinel, Splunk, and Okta.
+- **Monitoring and security tools:** Wireshark, Suricata, Microsoft Defender for Endpoint, Microsoft Sentinel, Splunk, Okta, Windows Defender Firewall, BitLocker, and Defender ASR.
 - **Cloud platforms:** Microsoft Azure and AWS.
 
 ## Certifications and training
